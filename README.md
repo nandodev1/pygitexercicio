@@ -4,13 +4,5 @@
 
 * Fique a vontade
 
-* Boas mudanças são aceitas
-
-  
-
-
-
-
-
-
+* :octopus: polvo
 
