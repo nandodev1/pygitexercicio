@@ -4,7 +4,7 @@
 
 * Fique a vontade
 
-* Para modificar
+* Boas mudanças são aceitas
 
   
 
